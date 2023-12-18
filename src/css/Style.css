@@ -1,0 +1,133 @@
+.custom-button {
+    background: radial-gradient(circle, #c462b4, #e65ea0);
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .title-style {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+  }
+/***********************************************
+/********* Estilos para Tarjetas  **************/
+/***********************************************/
+
+.add-product-to-cart{
+  margin-top: 10px;
+  background: radial-gradient(circle,#c462b4,#e65ea0);
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+/*
+.add-product-to-cart:active {
+  background: radial-gradient(circle, #e65ea0, #c462b4); 
+}
+*/
+.add-product-to-cart:hover {
+  background: radial-gradient(circle, #e65ea0, #c462b4);
+}
+
+
+
+.site-container{
+  margin: 2rem auto;
+  max-width: calc(100% - 80px);
+}
+
+.article-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(265px, 1fr));
+  gap: 2rem;
+}
+
+.article-image{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.article-image img{
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px 20px 20px 20px;
+
+}
+
+.article-card{
+  background: white;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.article-card:hover{
+  box-shadow: 0 4px 20px 0  rgba(34,68,123,0.2);
+  cursor: pointer;
+}
+
+.article-content{
+  padding: 2rem;
+}
+
+.article-content .card-category{
+  text-align:center;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  color: #0c2d63;
+  display: block;    
+}
+
+.article-content {
+  text-align:center;
+  margin: 1rem 0;
+  color: #22447b;
+}
+
+
+.card-price{
+  text-align:center;
+  font-weight: 600;
+  color: #22447b;   
+}
+
+.article-content .card-excerpt{
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: #345b9b;
+  margin: 0;
+}
+a{
+  text-decoration: none;
+}
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.image-promotion{
+  border: "0";
+  width: '300px';
+  height: '200px';
+}
+
+.center-link {
+  text-align: center;
+  margin-top: 20px;
+}
+

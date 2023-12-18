@@ -1,0 +1,66 @@
+
+/***********************************************/
+/****** Estilos para la tabla de productos *****/
+/***********************************************/
+
+.table-container {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  
+  .carrito {
+    max-width: 80%;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+    margin: 0 auto;
+  }
+  
+  .carrito thead {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .carrito th, .carrito td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .carrito tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .carrito tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+  
+  .carrito th {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  
+  .carrito td:nth-child(2) {
+    font-weight: bold;
+  }
+  
+  .carrito tbody tr:nth-child(odd) {
+    background-color: #e0e0e0;
+  }
+  
+  .titulo-carrito {
+    background-image: linear-gradient(to right, #433d96, #ff33cc);
+    -webkit-background-clip: text;
+    color: transparent;
+    padding: 10px;
+    font-size: 24px;
+  }
+
+  .button-custom {
+    margin-right: 10px;
+  }
+  

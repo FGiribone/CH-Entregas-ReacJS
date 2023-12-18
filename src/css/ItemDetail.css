@@ -1,0 +1,31 @@
+/***********************************************
+/****** Estilos detalle de Productos ***********/
+/***********************************************/
+
+
+/*************************
+/**** Quantity Control ***/
+/*************************/
+.quantity-controls {
+    margin-top: 30px;
+  }
+
+.quantity-controls button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 0 5px;
+  }
+  
+  .quantity-controls button:hover {
+    background-color: #c462b4;
+    color: #fff;
+  }
+  
+  .article-card-detail {
+    background: white;
+    border-radius: 20px;
+    transition: 0.3s;
+    border: 2px solid #f99fea;
+    padding: 10px; 
+  }

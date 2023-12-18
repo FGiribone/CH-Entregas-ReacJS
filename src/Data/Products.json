@@ -1,0 +1,83 @@
+[
+  {
+    "idCategoria": 1,
+    "nombreCategoria": "Cosmetica",
+    "codigo": 1,
+    "descripcion": "Crema 1",
+    "precio": 899.99,
+    "stock": 100,
+    "urlImagen": "https://iili.io/JxdBcns.jpg"
+  },
+  {
+    "idCategoria": 1,
+    "nombreCategoria": "Cosmetica",
+    "codigo": 2,
+    "descripcion": "Crema 2",
+    "precio": 1499.99,
+    "stock": 100,
+    "urlImagen": "https://iili.io/JxdBcns.jpg"
+  }, 
+  {
+    "idCategoria": 1,
+    "nombreCategoria": "Cosmetica",
+    "codigo": 3,
+    "descripcion": "Crema 3",
+    "precio": 2999.99,
+    "stock": 100,
+    "urlImagen": "https://iili.io/JxdBcns.jpg"
+  }, 
+  {
+    "idCategoria": 2,
+    "nombreCategoria": "Indumentaria",
+    "codigo": 4,
+    "descripcion": "Anillos 1",
+    "precio": 899.99,
+    "stock": 100,
+    "urlImagen": "https://iili.io/JxdBcns.jpg"
+  }, 
+  {
+    "idCategoria": 2,
+    "nombreCategoria": "Indumentaria",
+    "codigo": 5,
+    "descripcion": "Anillos 2",
+    "precio": 899.99,
+    "stock": 100,
+    "urlImagen": "https://iili.io/JxdBcns.jpg"
+  }, 
+  {
+    "idCategoria": 2,
+    "nombreCategoria": "Indumentaria",
+    "codigo": 6,
+    "descripcion": "Anillos 3",
+    "precio": 899.99,
+    "stock": 100,
+    "urlImagen": "https://iili.io/JxdBcns.jpg"
+  }, 
+  {
+    "idCategoria": 2,
+    "nombreCategoria": "Indumentaria",
+    "codigo": 7,
+    "descripcion": "Pantalon",
+    "precio": 11999.99,
+    "stock": 100,
+    "urlImagen": "https://iili.io/JxdBcns.jpg"
+  }, 
+  {
+    "idCategoria": 2,
+    "nombreCategoria": "Indumentaria",
+    "codigo": 8,
+    "descripcion": "Remera",
+    "precio": 5999.99,
+    "stock": 100,
+    "urlImagen": "https://iili.io/JxdBcns.jpg"
+  },
+  {
+    "idCategoria": 3,
+    "nombreCategoria": "Hogar",
+    "codigo": 9,
+    "descripcion": "Set de escoba",
+    "precio": 7999.99,
+    "stock": 99,
+    "urlImagen": "https://iili.io/JxdBcns.jpg"
+  }
+]
